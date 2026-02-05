@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f11aa6333165b74a8b981b0e070b40a, type: 3}
+  m_Name: CarpetDefinition
+  m_EditorClassIdentifier: 
+  id: 0
+  displayName: 
+  variants:
+  - title: 
+    previewSprite: {fileID: 21300000, guid: ef38d272f049a7f45a8329295fc567bf, type: 3}
+    sceneSprite: {fileID: 21300000, guid: d93f47da981245743a16ceac92036182, type: 3}
+    unlockLevel: 0
+    priceCoins: 0
+  - title: 
+    previewSprite: {fileID: 21300000, guid: 96a78e4fe86200348981625c6fc057e5, type: 3}
+    sceneSprite: {fileID: 21300000, guid: 73c75412d7ddd6a41a5c0e11f6412653, type: 3}
+    unlockLevel: 0
+    priceCoins: 900
+  - title: 
+    previewSprite: {fileID: 21300000, guid: 31c2cb6219fb57941bd9eb458632b497, type: 3}
+    sceneSprite: {fileID: 21300000, guid: 238d72ef2fdbb2140b9e7d8c25d54af6, type: 3}
+    unlockLevel: 4
+    priceCoins: 1200
