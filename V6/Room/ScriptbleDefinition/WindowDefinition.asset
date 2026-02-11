@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f11aa6333165b74a8b981b0e070b40a, type: 3}
+  m_Name: WindowDefinition
+  m_EditorClassIdentifier: 
+  id: 9
+  displayName: 
+  variants:
+  - title: 
+    previewSprite: {fileID: 21300000, guid: 9719e119ea4ba014f993da593e3b1b97, type: 3}
+    sceneSprite: {fileID: 21300000, guid: 9719e119ea4ba014f993da593e3b1b97, type: 3}
+    unlockLevel: 0
+    priceCoins: 0
+  - title: 
+    previewSprite: {fileID: 21300000, guid: c055552255b7ce14bb4cfa8eba5cc694, type: 3}
+    sceneSprite: {fileID: 21300000, guid: c055552255b7ce14bb4cfa8eba5cc694, type: 3}
+    unlockLevel: 6
+    priceCoins: 800
+  - title: 
+    previewSprite: {fileID: 21300000, guid: 1ddf3f2590d31994490c173f34a3295a, type: 3}
+    sceneSprite: {fileID: 21300000, guid: 1ddf3f2590d31994490c173f34a3295a, type: 3}
+    unlockLevel: 9
+    priceCoins: 2400
